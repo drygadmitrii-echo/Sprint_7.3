@@ -1,1 +1,4 @@
-Каждый охотник желает знать4444
+requests==2.28.1
+pytest==7.2.0
+allure-pytest==2.12.0
+pytest-ordering==0.6
