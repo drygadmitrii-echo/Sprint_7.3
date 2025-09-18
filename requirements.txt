@@ -1,1 +1,2 @@
 Жульен
+# Project dependencies
